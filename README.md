@@ -1,2 +1,2 @@
 # Milo_AI
- AI Assistant
+ Milo is an AI assistant who will perform tasks based on audio commands.
